@@ -109,7 +109,7 @@ Risk Assessment
 
 Official OpenForis WHISP repository:
 
-https://github.com/forestdatapartnership/openforis-whisp
+https://github.com/forestdatapartnership/whisp
 
 ---
 
